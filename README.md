@@ -23,3 +23,8 @@ This project uses the **Breast Cancer dataset** from scikit-learn. The objective
 - Trained a Logistic Regression model  
 - Evaluated model accuracy  
 - Reflected on feature engineering decisions  
+
+## How to Run
+
+1. Clone this repository
+2. Install required libraries:
